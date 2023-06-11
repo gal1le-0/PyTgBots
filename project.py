@@ -306,7 +306,7 @@ def callback(call):
             for elem in watched:
                 bot.send_message(call.message.chat.id, elem)
 
-
+#€рик спасибо
         
 
 bot.polling(none_stop=True)
